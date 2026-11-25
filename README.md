@@ -29,9 +29,12 @@ Netflix Movies and TV Shows dataset from Kaggle (`netflix_titles.csv`): title, t
 - About 30% of titles had no director listed, which I handled by labeling them "Unknown"
 
 ## Charts
-![Type split](charts/1_type_split.png)
-![Top genres](charts/2_top_genres.png)
-![Added per year](charts/4_added_per_year.png)
+1_type_split.png
+2_top_genres.png
+3_top_countries.png
+4_added_per_year.png
+5_ratings.png
+6_movie_duration.png
 
 ## Tools
 Python, Pandas, Matplotlib, Seaborn
