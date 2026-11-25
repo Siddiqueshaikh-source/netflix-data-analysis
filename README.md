@@ -36,7 +36,6 @@ Netflix Movies and TV Shows dataset from Kaggle (`netflix_titles.csv`): title, t
 ![Titles Added per Year](charts/4_added_per_year.png)
 ![Rating Distribution](charts/5_ratings.png)
 ![Movie Duration](charts/6_movie_duration.png)
-
 ## Tools
 Python, Pandas, Matplotlib, Seaborn
 
