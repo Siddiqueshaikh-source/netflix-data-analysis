@@ -30,12 +30,12 @@ Netflix Movies and TV Shows dataset from Kaggle (`netflix_titles.csv`): title, t
   
 ## Charts
 
-![Movies vs TV Shows](charts/1_type_split.png)
-![Top Genres](charts/2_top_genres.png)
-![Top Countries](charts/3_top_countries.png)
-![Titles Added per Year](charts/4_added_per_year.png)
-![Rating Distribution](charts/5_ratings.png)
-![Movie Duration](charts/6_movie_duration.png)
+![Movies vs TV Shows](1_type_split.png)
+![Top Genres](2_top_genres.png)
+![Top Countries](3_top_countries.png)
+![Titles Added per Year](4_added_per_year.png)
+![Rating Distribution](5_ratings.png)
+![Movie Duration](6_movie_duration.png)
 ## Tools
 Python, Pandas, Matplotlib, Seaborn
 
