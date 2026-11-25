@@ -20,12 +20,13 @@ Netflix Movies and TV Shows dataset from Kaggle (`netflix_titles.csv`): title, t
 - Split multi-value genre and country columns for accurate counts
 
 ## Key Findings
-- Movies make up X% of the catalog, TV shows the rest
-- The top genre is X, followed by X
-- X leads in content production, followed by X
-- Content additions peaked in X
-- The most common rating is X
-- The average movie runs X minutes
+- Netflix's catalog of 8,807 titles is 69.6% movies (6,131) and 30.4% TV shows (2,676)
+- International Movies is the largest genre with 2,752 titles
+- The United States leads content production with 3,690 titles
+- Content additions peaked in 2019
+- TV-MA is the most common rating, so the catalog leans toward mature audiences
+- The average movie runs about 100 minutes, and most TV shows have just 1 season
+- About 30% of titles had no director listed, which I handled by labeling them "Unknown"
 
 ## Charts
 ![Type split](charts/1_type_split.png)
